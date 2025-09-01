@@ -1,0 +1,27 @@
+1
+
+1,data-faktlar malunotlar
+2.database-malumotlar saqlanadigan joy
+3.RELATIONAL DATABASE-jadval ko'rinishida boglangan holda saqlanadi
+4. table-ustun va qatorlar 
+
+
+
+2.sql serverning 5 xususiyati
+
+1.xavsizlik. malumot saqlash. qulay boishqaruv .dastur bn ishlash backup va restore qilish
+
+3 Autentifikatsiya usullari
+windows va sqlserver
+4 yangi baza yaratish 
+4 CREATE DATABASE 
+
+5 CREATE TABLE Students (
+StudentsID INT PRIMERY  KEY,
+NAME VARCHAR (50),
+AGE INT
+);
+6.FARQLARI
+SQL SERVER-MALUMOTLARNI boshqaradigan server 
+ssms-sql server bn ishlash
+sql malumotlar bn ishlash tili
